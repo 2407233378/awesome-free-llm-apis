@@ -5,6 +5,10 @@
 </h1>
 
 <p align="center">
+	English | <a href="README.zh-CN.md">简体中文</a>
+</p>
+
+<p align="center">
 	<a href="https://awesome.re">
 		<img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
 	</a>
